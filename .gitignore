@@ -15,3 +15,16 @@
 /log/*
 !/log/.keep
 /tmp
+
+public/system/posts/images/000/000/002/medium/brave-movie-poster1.jpg
+public/system/posts/images/000/000/001/original/brave-movie-poster1.jpg
+public/system/posts/images/000/000/001/medium/brave-movie-poster1.jpg
+public/system/posts/images/000/000/002/original/brave-movie-poster1.jpg
+public/system/posts/images/000/000/001/small/brave-movie-poster1.jpg
+public/system/posts/images/000/000/002/medium/newhope.jpg
+public/system/posts/images/000/000/002/original/newhope.jpg
+public/system/posts/images/000/000/002/small/brave-movie-poster1.jpg
+public/system/posts/images/000/000/002/small/newhope.jpg
+public/system/posts/images/000/000/003/medium/the-matrix-movie-poster-1999-1020265382.jpg
+public/system/posts/images/000/000/003/original/the-matrix-movie-poster-1999-1020265382.jpg
+public/system/posts/images/000/000/003/small/the-matrix-movie-poster-1999-1020265382.jpg
